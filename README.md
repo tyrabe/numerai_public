@@ -10,6 +10,6 @@ The performance of the staked model can be found in the link below.
 
 https://numer.ai/raven486
 
-Also check out the performance of the cryptocurrency NMR via tradingview.  Performance of the asset could potentially be incorporated into your staking regime.
+Also check out the performance of the cryptocurrency NMR via tradingview.  Performance of the asset NMR could potentially be incorporated into your staking regime.
 
 https://www.tradingview.com/chart/fVbzGEwU/?symbol=COINBASE%3ANMRUSD
