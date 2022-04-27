@@ -6,8 +6,8 @@
 - You have the ability to stake Numerai cryptocurrency (NMR) against your predictions and get weekly payouts (or burns) based on model performance. 
 
 ## Notes
-- These are NOT models I use in production, just example models to demonstrate some of my coding abilities. \
-- My production model is scored weekly and my submissions are submitted every weekend.  \
+- These are NOT models I use in production, just example models to demonstrate some of my coding abilities. 
+- My production model is scored weekly and my submissions are submitted every weekend.  
 - The performance of the staked model can be found in the link below.  
 - Current performance as of April 2022 is 82.9% yearly return on my stake.
 
