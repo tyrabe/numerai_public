@@ -11,3 +11,7 @@ My production model is scored weekly and my submissions are submitted every week
 The performance of the model can be found in the link below.  
 
 https://numer.ai/raven486
+
+Also check out the performance of the cryptocurrency NMR via tradingview.  Performance of the asset could potentially be incorporated into your staking regime.
+
+https://www.tradingview.com/chart/fVbzGEwU/?symbol=COINBASE%3ANMRUSD
