@@ -3,7 +3,9 @@
 This repository is a demonstration of some of my work around the Numerai data science tournament (https://docs.numer.ai/tournament/learn).  \
 The Numerai data science tournament is a weekly tournament that allows modelers to submit predictions on obfuscated stock market data. \ 
 You have the ability to stake Numerai cryptocurrency (NMR) against your predictions and get weekly payouts (or burns) based on model performance. \
-\\
+
+
+
 NOTE: These are NOT models I use in production, just example models to demonstrate some of my coding abilities. \
 My production model is scored weekly and my submissions are submitted every weekend.  \
 The performance of the model can be found in the link below.  
