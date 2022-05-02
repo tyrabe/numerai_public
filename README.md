@@ -9,7 +9,7 @@
 ## Notes
 - These are NOT models I use in production, just example models to demonstrate some of my modeling/coding abilities. 
 - My production model is scored weekly and my submissions are submitted every weekend.  
-- The performance of the staked model can be found in the link below.  
+- The performance of my staked model can be found in the link below.  I have skin in the game :)  
 - Current performance as of April 2022 is 82.9% yearly return on my stake.
 
 https://numer.ai/raven486
