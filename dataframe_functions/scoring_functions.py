@@ -13,8 +13,8 @@ def numerai_score(y_true, y_pred):
 
 def score(df):
     # method="first" breaks ties based on order in array
-    pct_ranks = df[PREDICTION_NAME].rank(pct=True, method="first")
-    targets = df[TARGET_NAME]
+    pct_ranks = df['prediction'].rank(pct=True, method="first")
+    targets = df['target']
     return np.corrcoef(targets, pct_ranks)[0, 1]
 
 def payout(scores):
