@@ -1,6 +1,6 @@
 # Tyler's Public Numerai 
 
-## Check out my staked model
+## Check out my staked model - currently in 62nd place out of 4,739 staked models (May 24th 2022)
 https://numer.ai/raven486
 
 ## Background
