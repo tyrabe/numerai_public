@@ -1,5 +1,8 @@
 # Tyler's Public Numerai 
 
+## Check out my staked model
+https://numer.ai/raven486
+
 ## Background
 - This repository is a demonstration of some of my work around the Numerai data science tournament (https://docs.numer.ai/tournament/learn).  
 - The Numerai data science tournament is a weekly tournament that allows modelers to submit predictions on obfuscated stock market data. 
@@ -13,7 +16,7 @@
 - The performance of my staked model can be found in the link below.    
 - Current performance as of April 2022 is 82.9% yearly return on my stake.
 
-https://numer.ai/raven486
+
 
 Also check out the performance of the cryptocurrency NMR via tradingview.  Performance of the asset NMR could potentially be incorporated into your staking regime.
 
