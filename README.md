@@ -13,10 +13,6 @@ https://numer.ai/raven486
 ## Notes
 - The example models are NOT models I use in production, they are used to demonstrate some of my modeling/coding abilities. 
 - My production model is scored weekly and my submissions are submitted every weekend.  
-- The performance of my staked model can be found in the link below.    
-- Current performance as of April 2022 is 82.9% yearly return on my stake.
-
-
 
 Also check out the performance of the cryptocurrency NMR via tradingview.  Performance of the asset NMR could potentially be incorporated into your staking regime.
 
