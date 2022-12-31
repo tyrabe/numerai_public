@@ -5,8 +5,8 @@ https://numer.ai/raven486
 
 ## Background
 - This repository is a demonstration of some of my work around the Numerai data science tournament (https://docs.numer.ai/tournament/learn).  
-- The Numerai data science tournament is a weekly tournament that allows modelers to submit predictions on obfuscated stock market data. 
-- You have the ability to stake Numerai cryptocurrency (NMR) against your predictions and get weekly payouts (or burns) based on model performance. 
+- The Numerai data science tournament is a daily tournament that allows modelers to submit predictions on obfuscated stock market data. 
+- You have the ability to stake Numerai cryptocurrency (NMR) against your predictions and get daily payouts (or burns) based on model performance. 
 - Staking a model allows you to have skin in the game on your models performance.
 - Check out my notebooks folder for an example LightGBM model
 
