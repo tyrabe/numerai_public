@@ -12,7 +12,7 @@ https://numer.ai/raven486
 
 ## Notes
 - The example models are NOT models I use in production, they are used to demonstrate some of my modeling/coding abilities. 
-- My production model is scored weekly and my submissions are submitted every weekend.  
+- My production model is scored and submitted daily.  
 
 Also check out the performance of the cryptocurrency NMR via tradingview.  Performance of the asset NMR could potentially be incorporated into your staking regime.
 
