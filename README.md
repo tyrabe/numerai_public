@@ -1,7 +1,7 @@
 # Tyler's Public Numerai 
 
 ## Check out my staked model 
-https://numer.ai/raven486
+https://numer.ai/raven490
 
 ## Background
 - This repository is a demonstration of some of my work around the Numerai data science tournament (https://docs.numer.ai/tournament/learn).  
